@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\лаб9\лаб9\bin\Debug\лаб9.exe.config
+C:\Users\user\source\repos\лаб9\лаб9\bin\Debug\лаб9.exe
+C:\Users\user\source\repos\лаб9\лаб9\bin\Debug\лаб9.pdb
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.csprojAssemblyReference.cache
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.Form1.resources
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.Properties.Resources.resources
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.csproj.GenerateResource.cache
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.exe
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.pdb
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.add.resources
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.write.resources
+C:\Users\user\source\repos\лаб9\лаб9\obj\Debug\лаб9.change.resources
